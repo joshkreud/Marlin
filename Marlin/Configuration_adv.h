@@ -814,7 +814,7 @@
 // Define positions for probing points, use the hotend as reference not the sensor.
 #define TRAMMING_POINT_XY                          \
    {                                               \
-      {20, 20}, {200, 20}, {200, 200}, { 20, 200 } \
+      {30, 35}, {170, 35}, {170, 205}, { 30, 205 } \
    }
 
 // Define positions names for probing points.
